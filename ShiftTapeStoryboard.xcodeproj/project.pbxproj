@@ -16,6 +16,9 @@
 		0880C5E628D9D3D500ACC770 /* ShiftTapeStoryboardTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0880C5E528D9D3D500ACC770 /* ShiftTapeStoryboardTests.swift */; };
 		0880C5F028D9D3D500ACC770 /* ShiftTapeStoryboardUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0880C5EF28D9D3D500ACC770 /* ShiftTapeStoryboardUITests.swift */; };
 		0880C5F228D9D3D500ACC770 /* ShiftTapeStoryboardUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0880C5F128D9D3D500ACC770 /* ShiftTapeStoryboardUITestsLaunchTests.swift */; };
+		B15F6C439C185886FDC9B20B /* Pods_ShiftTapeStoryboardTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 118A077E0C71C78DE296D577 /* Pods_ShiftTapeStoryboardTests.framework */; };
+		BEB461412909B13EE3EF1769 /* Pods_ShiftTapeStoryboard.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 77B17503E451CB6FE6B466A6 /* Pods_ShiftTapeStoryboard.framework */; };
+		CB8F7A1406C65FC917AAC9D0 /* Pods_ShiftTapeStoryboard_ShiftTapeStoryboardUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4FBBF28DB0269675FD67E0A2 /* Pods_ShiftTapeStoryboard_ShiftTapeStoryboardUITests.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +52,16 @@
 		0880C5EB28D9D3D500ACC770 /* ShiftTapeStoryboardUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ShiftTapeStoryboardUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		0880C5EF28D9D3D500ACC770 /* ShiftTapeStoryboardUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShiftTapeStoryboardUITests.swift; sourceTree = "<group>"; };
 		0880C5F128D9D3D500ACC770 /* ShiftTapeStoryboardUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShiftTapeStoryboardUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		0880C5FF28D9DEA200ACC770 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Main.strings; sourceTree = "<group>"; };
+		0CDEB895D9EC33CA84BC1F62 /* Pods-ShiftTapeStoryboard-ShiftTapeStoryboardUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ShiftTapeStoryboard-ShiftTapeStoryboardUITests.debug.xcconfig"; path = "Target Support Files/Pods-ShiftTapeStoryboard-ShiftTapeStoryboardUITests/Pods-ShiftTapeStoryboard-ShiftTapeStoryboardUITests.debug.xcconfig"; sourceTree = "<group>"; };
+		118A077E0C71C78DE296D577 /* Pods_ShiftTapeStoryboardTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ShiftTapeStoryboardTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		14A68058C37A0F1A0DB2F5B7 /* Pods-ShiftTapeStoryboard-ShiftTapeStoryboardUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ShiftTapeStoryboard-ShiftTapeStoryboardUITests.release.xcconfig"; path = "Target Support Files/Pods-ShiftTapeStoryboard-ShiftTapeStoryboardUITests/Pods-ShiftTapeStoryboard-ShiftTapeStoryboardUITests.release.xcconfig"; sourceTree = "<group>"; };
+		22E46A92740635CF809104B3 /* Pods-ShiftTapeStoryboardTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ShiftTapeStoryboardTests.debug.xcconfig"; path = "Target Support Files/Pods-ShiftTapeStoryboardTests/Pods-ShiftTapeStoryboardTests.debug.xcconfig"; sourceTree = "<group>"; };
+		4FBBF28DB0269675FD67E0A2 /* Pods_ShiftTapeStoryboard_ShiftTapeStoryboardUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ShiftTapeStoryboard_ShiftTapeStoryboardUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		72DE4A3E901D7477EF9A6109 /* Pods-ShiftTapeStoryboardTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ShiftTapeStoryboardTests.release.xcconfig"; path = "Target Support Files/Pods-ShiftTapeStoryboardTests/Pods-ShiftTapeStoryboardTests.release.xcconfig"; sourceTree = "<group>"; };
+		77B17503E451CB6FE6B466A6 /* Pods_ShiftTapeStoryboard.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ShiftTapeStoryboard.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		77C3A4A13EF929EBA801584A /* Pods-ShiftTapeStoryboard.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ShiftTapeStoryboard.release.xcconfig"; path = "Target Support Files/Pods-ShiftTapeStoryboard/Pods-ShiftTapeStoryboard.release.xcconfig"; sourceTree = "<group>"; };
+		BAC4DC60A4E3F27086584467 /* Pods-ShiftTapeStoryboard.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ShiftTapeStoryboard.debug.xcconfig"; path = "Target Support Files/Pods-ShiftTapeStoryboard/Pods-ShiftTapeStoryboard.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +69,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BEB461412909B13EE3EF1769 /* Pods_ShiftTapeStoryboard.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -63,6 +77,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B15F6C439C185886FDC9B20B /* Pods_ShiftTapeStoryboardTests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -70,6 +85,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CB8F7A1406C65FC917AAC9D0 /* Pods_ShiftTapeStoryboard_ShiftTapeStoryboardUITests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -83,6 +99,8 @@
 				0880C5E428D9D3D500ACC770 /* ShiftTapeStoryboardTests */,
 				0880C5EE28D9D3D500ACC770 /* ShiftTapeStoryboardUITests */,
 				0880C5CC28D9D3D300ACC770 /* Products */,
+				1A04744C70079FB8FD727C4A /* Pods */,
+				CF9BF99545CE4A329822EAAC /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -127,6 +145,29 @@
 			path = ShiftTapeStoryboardUITests;
 			sourceTree = "<group>";
 		};
+		1A04744C70079FB8FD727C4A /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				BAC4DC60A4E3F27086584467 /* Pods-ShiftTapeStoryboard.debug.xcconfig */,
+				77C3A4A13EF929EBA801584A /* Pods-ShiftTapeStoryboard.release.xcconfig */,
+				0CDEB895D9EC33CA84BC1F62 /* Pods-ShiftTapeStoryboard-ShiftTapeStoryboardUITests.debug.xcconfig */,
+				14A68058C37A0F1A0DB2F5B7 /* Pods-ShiftTapeStoryboard-ShiftTapeStoryboardUITests.release.xcconfig */,
+				22E46A92740635CF809104B3 /* Pods-ShiftTapeStoryboardTests.debug.xcconfig */,
+				72DE4A3E901D7477EF9A6109 /* Pods-ShiftTapeStoryboardTests.release.xcconfig */,
+			);
+			path = Pods;
+			sourceTree = "<group>";
+		};
+		CF9BF99545CE4A329822EAAC /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				77B17503E451CB6FE6B466A6 /* Pods_ShiftTapeStoryboard.framework */,
+				4FBBF28DB0269675FD67E0A2 /* Pods_ShiftTapeStoryboard_ShiftTapeStoryboardUITests.framework */,
+				118A077E0C71C78DE296D577 /* Pods_ShiftTapeStoryboardTests.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -134,9 +175,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 0880C5F528D9D3D500ACC770 /* Build configuration list for PBXNativeTarget "ShiftTapeStoryboard" */;
 			buildPhases = (
+				5AEF1C6F6F7068ACA156BF35 /* [CP] Check Pods Manifest.lock */,
 				0880C5C728D9D3D300ACC770 /* Sources */,
 				0880C5C828D9D3D300ACC770 /* Frameworks */,
 				0880C5C928D9D3D300ACC770 /* Resources */,
+				58F3E25C03C8036256E7BB4B /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -151,6 +194,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 0880C5F828D9D3D500ACC770 /* Build configuration list for PBXNativeTarget "ShiftTapeStoryboardTests" */;
 			buildPhases = (
+				B703FB633BD4A3FB38679E59 /* [CP] Check Pods Manifest.lock */,
 				0880C5DD28D9D3D500ACC770 /* Sources */,
 				0880C5DE28D9D3D500ACC770 /* Frameworks */,
 				0880C5DF28D9D3D500ACC770 /* Resources */,
@@ -169,9 +213,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 0880C5FB28D9D3D500ACC770 /* Build configuration list for PBXNativeTarget "ShiftTapeStoryboardUITests" */;
 			buildPhases = (
+				91D7B4F65BF74D692A3A3D8E /* [CP] Check Pods Manifest.lock */,
 				0880C5E728D9D3D500ACC770 /* Sources */,
 				0880C5E828D9D3D500ACC770 /* Frameworks */,
 				0880C5E928D9D3D500ACC770 /* Resources */,
+				ED502D0E9DDB14D9DE19F10D /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -253,6 +299,109 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		58F3E25C03C8036256E7BB4B /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-ShiftTapeStoryboard/Pods-ShiftTapeStoryboard-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-ShiftTapeStoryboard/Pods-ShiftTapeStoryboard-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-ShiftTapeStoryboard/Pods-ShiftTapeStoryboard-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		5AEF1C6F6F7068ACA156BF35 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-ShiftTapeStoryboard-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		91D7B4F65BF74D692A3A3D8E /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-ShiftTapeStoryboard-ShiftTapeStoryboardUITests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		B703FB633BD4A3FB38679E59 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-ShiftTapeStoryboardTests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		ED502D0E9DDB14D9DE19F10D /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-ShiftTapeStoryboard-ShiftTapeStoryboardUITests/Pods-ShiftTapeStoryboard-ShiftTapeStoryboardUITests-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-ShiftTapeStoryboard-ShiftTapeStoryboardUITests/Pods-ShiftTapeStoryboard-ShiftTapeStoryboardUITests-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-ShiftTapeStoryboard-ShiftTapeStoryboardUITests/Pods-ShiftTapeStoryboard-ShiftTapeStoryboardUITests-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		0880C5C728D9D3D300ACC770 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
@@ -301,6 +450,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				0880C5D528D9D3D300ACC770 /* Base */,
+				0880C5FF28D9DEA200ACC770 /* en */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
@@ -432,11 +582,13 @@
 		};
 		0880C5F628D9D3D500ACC770 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = BAC4DC60A4E3F27086584467 /* Pods-ShiftTapeStoryboard.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = QD2MBVB859;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = ShiftTapeStoryboard/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
@@ -459,11 +611,13 @@
 		};
 		0880C5F728D9D3D500ACC770 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 77C3A4A13EF929EBA801584A /* Pods-ShiftTapeStoryboard.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = QD2MBVB859;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = ShiftTapeStoryboard/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
@@ -486,6 +640,7 @@
 		};
 		0880C5F928D9D3D500ACC770 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 22E46A92740635CF809104B3 /* Pods-ShiftTapeStoryboardTests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -505,6 +660,7 @@
 		};
 		0880C5FA28D9D3D500ACC770 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 72DE4A3E901D7477EF9A6109 /* Pods-ShiftTapeStoryboardTests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -524,6 +680,7 @@
 		};
 		0880C5FC28D9D3D500ACC770 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 0CDEB895D9EC33CA84BC1F62 /* Pods-ShiftTapeStoryboard-ShiftTapeStoryboardUITests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
@@ -541,6 +698,7 @@
 		};
 		0880C5FD28D9D3D500ACC770 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 14A68058C37A0F1A0DB2F5B7 /* Pods-ShiftTapeStoryboard-ShiftTapeStoryboardUITests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;

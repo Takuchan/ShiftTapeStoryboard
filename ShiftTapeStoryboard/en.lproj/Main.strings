@@ -1,0 +1,27 @@
+
+/* Class = "UIButton"; configuration.title = "Button"; ObjectID = "EVv-Pt-HLs"; */
+"EVv-Pt-HLs.configuration.title" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "EVv-Pt-HLs"; */
+"EVv-Pt-HLs.normalTitle" = "Button";
+
+/* Class = "UITabBarItem"; badgeValue = "340"; ObjectID = "KD6-sy-asW"; */
+"KD6-sy-asW.badgeValue" = "340";
+
+/* Class = "UITabBarItem"; title = "ホーム"; ObjectID = "KD6-sy-asW"; */
+"KD6-sy-asW.title" = "ホーム";
+
+/* Class = "UITabBarItem"; title = "通知"; ObjectID = "KHD-fz-kKp"; */
+"KHD-fz-kKp.title" = "通知";
+
+/* Class = "UITabBarItem"; title = "Myシフト"; ObjectID = "MSn-Qr-5Jh"; */
+"MSn-Qr-5Jh.title" = "Myシフト";
+
+/* Class = "UIBarButtonItem"; title = "Other"; ObjectID = "SNH-dE-Vsx"; */
+"SNH-dE-Vsx.title" = "Other";
+
+/* Class = "UINavigationItem"; title = "Hello,Guest!"; ObjectID = "Vtc-i2-dfm"; */
+"Vtc-i2-dfm.title" = "Hello,Guest!";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "doN-vh-Fpd"; */
+"doN-vh-Fpd.title" = "Item";
